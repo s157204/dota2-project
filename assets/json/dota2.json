@@ -6,7 +6,7 @@
       "age": 30,
       "active": true,
       "birthdate": "1995-06-14",
-      "image_url": "../assets/img/antimage.png",
+      "image_url": "https://github.com/s157204/dota2-project/blob/main/assets/img/antimage.png?raw=true",
       "role": "Carry",
       "hobbies": ["Fighting", "Meditation", "Training"],
       "stats": {
@@ -25,7 +25,7 @@
       "age": 35,
       "active": true,
       "birthdate": "1990-02-25",
-      "image_url": "../assets/img/axe.png",
+      "image_url": "https://github.com/s157204/dota2-project/blob/main/assets/img/axe.png?raw=true",
       "role": "Offlaner",
       "hobbies": ["Battle", "Strategy", "Tactics"],
       "stats": {
@@ -44,7 +44,7 @@
       "age": 28,
       "active": true,
       "birthdate": "1997-08-07",
-      "image_url": "../assets/img/crystal_maiden.png",
+      "image_url": "https://github.com/s157204/dota2-project/blob/main/assets/img/crystal_maiden.png?raw=true",
       "role": "Support",
       "hobbies": ["Magic", "Traveling", "Snowboarding"],
       "stats": {
@@ -63,7 +63,7 @@
       "age": 25,
       "active": true,
       "birthdate": "2000-11-10",
-      "image_url": "../assets/img/drow_ranger.png",
+      "image_url": "https://github.com/s157204/dota2-project/blob/main/assets/img/drow_ranger.png?raw=true",
       "role": "Carry",
       "hobbies": ["Archery", "Hunting", "Tracking"],
       "stats": {
@@ -82,7 +82,7 @@
       "age": 32,
       "active": true,
       "birthdate": "1993-05-02",
-      "image_url": "../assets/img/earthshaker.png",
+      "image_url": "https://github.com/s157204/dota2-project/blob/main/assets/img/earthshaker.png?raw=true",
       "role": "Support",
       "hobbies": ["Shaking the earth", "Mining", "Tunneling"],
       "stats": {
@@ -101,7 +101,7 @@
       "age": 27,
       "active": true,
       "birthdate": "1998-07-20",
-      "image_url": "../assets/img/juggernaut.png",
+      "image_url": "https://github.com/s157204/dota2-project/blob/main/assets/img/juggernaut.png?raw=true",
       "role": "Carry",
       "hobbies": ["Swordsmanship", "Running", "Dance"],
       "stats": {
@@ -120,7 +120,7 @@
       "age": 26,
       "active": true,
       "birthdate": "1999-09-30",
-      "image_url": "../assets/img/lina.png",
+      "image_url": "https://github.com/s157204/dota2-project/blob/main/assets/img/lina.png?raw=true",
       "role": "Nuker",
       "hobbies": ["Fire magic", "Cooking", "Explosives"],
       "stats": {
@@ -139,7 +139,7 @@
       "age": 33,
       "active": true,
       "birthdate": "1992-12-13",
-      "image_url": "../assets/img/lion.png",
+      "image_url": "https://github.com/s157204/dota2-project/blob/main/assets/img/lion.png?raw=true",
       "role": "Support",
       "hobbies": ["Magic", "Sorcery", "Reading"],
       "stats": {
@@ -158,7 +158,7 @@
       "age": 40,
       "active": true,
       "birthdate": "1985-04-10",
-      "image_url": "../assets/img/pudge.png",
+      "image_url": "https://github.com/s157204/dota2-project/blob/main/assets/img/pudge.png?raw=true",
       "role": "Offlaner",
       "hobbies": ["Butchery", "Hunting", "Fishing"],
       "stats": {
@@ -177,7 +177,7 @@
       "age": 29,
       "active": true,
       "birthdate": "1996-03-03",
-      "image_url": "../assets/img/tinker.png",
+      "image_url": "https://github.com/s157204/dota2-project/blob/main/assets/img/tinker.png?raw=true",
       "role": "Nuker",
       "hobbies": ["Engineering", "Inventing", "Explosions"],
       "stats": {
