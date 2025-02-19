@@ -1,0 +1,85 @@
+[
+    {
+        "id": 1,
+        "strength": 22,
+        "agility": 28,
+        "intelligence": 15,
+        "health": 650,
+        "mana": 300
+      
+    },
+    {
+      "id": 2,
+        "strength": 26,
+        "agility": 18,
+        "intelligence": 12,
+        "health": 750,
+        "mana": 400
+    },
+    {
+        "id": 3,
+        "strength": 18,
+        "agility": 14,
+        "intelligence": 28,
+        "health": 550,
+        "mana": 500
+    },
+    {
+        "id": 4,
+        "strength": 20,
+        "agility": 30,
+        "intelligence": 18,
+        "health": 600,
+        "mana": 300
+    },
+    {
+        "id": 5,
+        "strength": 22,
+        "agility": 14,
+        "intelligence": 19,
+        "health": 700,
+        "mana": 350
+    },
+    {
+        "id": 6,
+        "strength": 21,
+        "agility": 25,
+        "intelligence": 14,
+        "health": 650,
+        "mana": 350
+    },
+    {
+        "id": 7,
+        "strength": 18,
+        "agility": 16,
+        "intelligence": 30,
+        "health": 600,
+        "mana": 400
+    },
+    {
+        "id": 8,
+        "strength": 19,
+        "agility": 14,
+        "intelligence": 28,
+        "health": 600,
+        "mana": 450
+    },
+    {
+        "id": 9,
+        "strength": 25,
+        "agility": 10,
+        "intelligence": 15,
+        "health": 800,
+        "mana": 400
+    },
+    {
+        "id": 10,
+        "strength": 18,
+        "agility": 16,
+        "intelligence": 30,
+        "health": 550,
+        "mana": 500
+    }
+
+  ]
+  

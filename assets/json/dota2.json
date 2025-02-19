@@ -1,0 +1,193 @@
+[
+    {
+      "id": 1,
+      "name": "Anti-Mage",
+      "description": "Anti-Mage is a powerful hero who seeks vengeance on those who use magic. He is skilled at draining the mana of enemies and is a great anti-caster.",
+      "age": 30,
+      "active": true,
+      "birthdate": "1995-06-14",
+      "image_url": "../assets/img/antimage.png",
+      "role": "Carry",
+      "hobbies": ["Fighting", "Meditation", "Training"],
+      "stats": {
+        "id": 1,
+        "strength": 22,
+        "agility": 28,
+        "intelligence": 15,
+        "health": 650,
+        "mana": 300
+      }
+    },
+    {
+      "id": 2,
+      "name": "Axe",
+      "description": "Axe is a tanky warrior who excels in initiating fights. He uses his battle hunger and taunts enemies into attacking him, while dealing massive damage.",
+      "age": 35,
+      "active": true,
+      "birthdate": "1990-02-25",
+      "image_url": "../assets/img/axe.png",
+      "role": "Offlaner",
+      "hobbies": ["Battle", "Strategy", "Tactics"],
+      "stats": {
+        "id": 2,
+        "strength": 26,
+        "agility": 18,
+        "intelligence": 12,
+        "health": 750,
+        "mana": 400
+      }
+    },
+    {
+      "id": 3,
+      "name": "Crystal Maiden",
+      "description": "Crystal Maiden is a support hero who excels in controlling the battlefield. Her spells slow and freeze enemies, making them easy targets for allies.",
+      "age": 28,
+      "active": true,
+      "birthdate": "1997-08-07",
+      "image_url": "../assets/img/crystal_maiden.png",
+      "role": "Support",
+      "hobbies": ["Magic", "Traveling", "Snowboarding"],
+      "stats": {
+        "id": 3,
+        "strength": 18,
+        "agility": 14,
+        "intelligence": 28,
+        "health": 550,
+        "mana": 500
+      }
+    },
+    {
+      "id": 4,
+      "name": "Drow Ranger",
+      "description": "Drow Ranger is a ranged carry who relies on her agility and her precision to deal significant damage from a distance.",
+      "age": 25,
+      "active": true,
+      "birthdate": "2000-11-10",
+      "image_url": "../assets/img/drow_ranger.png",
+      "role": "Carry",
+      "hobbies": ["Archery", "Hunting", "Tracking"],
+      "stats": {
+        "id": 4,
+        "strength": 20,
+        "agility": 30,
+        "intelligence": 18,
+        "health": 600,
+        "mana": 300
+      }
+    },
+    {
+      "id": 5,
+      "name": "Earthshaker",
+      "description": "Earthshaker is a durable initiator who can stun and disable enemies with his Earthshaker spell. His ultimate ability can turn the tide of battles.",
+      "age": 32,
+      "active": true,
+      "birthdate": "1993-05-02",
+      "image_url": "../assets/img/earthshaker.png",
+      "role": "Support",
+      "hobbies": ["Shaking the earth", "Mining", "Tunneling"],
+      "stats": {
+        "id": 5,
+        "strength": 22,
+        "agility": 14,
+        "intelligence": 19,
+        "health": 700,
+        "mana": 350
+      }
+    },
+    {
+      "id": 6,
+      "name": "Juggernaut",
+      "description": "Juggernaut is a melee carry who can deal massive damage while healing himself through his ultimate ability.",
+      "age": 27,
+      "active": true,
+      "birthdate": "1998-07-20",
+      "image_url": "../assets/img/juggernaut.png",
+      "role": "Carry",
+      "hobbies": ["Swordsmanship", "Running", "Dance"],
+      "stats": {
+        "id": 6,
+        "strength": 21,
+        "agility": 25,
+        "intelligence": 14,
+        "health": 650,
+        "mana": 350
+      }
+    },
+    {
+      "id": 7,
+      "name": "Lina",
+      "description": "Lina is a ranged intelligence hero who can unleash powerful fire spells to deal massive damage and control the battlefield.",
+      "age": 26,
+      "active": true,
+      "birthdate": "1999-09-30",
+      "image_url": "../assets/img/lina.png",
+      "role": "Nuker",
+      "hobbies": ["Fire magic", "Cooking", "Explosives"],
+      "stats": {
+        "id": 7,
+        "strength": 18,
+        "agility": 16,
+        "intelligence": 30,
+        "health": 600,
+        "mana": 400
+      }
+    },
+    {
+      "id": 8,
+      "name": "Lion",
+      "description": "Lion is a ranged support who can disable enemies with his stunning abilities and provide team utility with his finger of death ultimate.",
+      "age": 33,
+      "active": true,
+      "birthdate": "1992-12-13",
+      "image_url": "../assets/img/lion.png",
+      "role": "Support",
+      "hobbies": ["Magic", "Sorcery", "Reading"],
+      "stats": {
+        "id": 8,
+        "strength": 19,
+        "agility": 14,
+        "intelligence": 28,
+        "health": 600,
+        "mana": 450
+      }
+    },
+    {
+      "id": 9,
+      "name": "Pudge",
+      "description": "Pudge is a tanky hero known for his ability to hook enemies towards him, initiating fights and dishing out huge amounts of damage.",
+      "age": 40,
+      "active": true,
+      "birthdate": "1985-04-10",
+      "image_url": "../assets/img/pudge.png",
+      "role": "Offlaner",
+      "hobbies": ["Butchery", "Hunting", "Fishing"],
+      "stats": {
+        "id": 9,
+        "strength": 25,
+        "agility": 10,
+        "intelligence": 15,
+        "health": 800,
+        "mana": 400
+      }
+    },
+    {
+      "id": 10,
+      "name": "Tinker",
+      "description": "Tinker is a brilliant inventor who uses his mechanical creations to deal high damage and control the battlefield with various gadgets.",
+      "age": 29,
+      "active": true,
+      "birthdate": "1996-03-03",
+      "image_url": "../assets/img/tinker.png",
+      "role": "Nuker",
+      "hobbies": ["Engineering", "Inventing", "Explosions"],
+      "stats": {
+        "id": 10,
+        "strength": 18,
+        "agility": 16,
+        "intelligence": 30,
+        "health": 550,
+        "mana": 500
+      }
+    }
+  ]
+  
